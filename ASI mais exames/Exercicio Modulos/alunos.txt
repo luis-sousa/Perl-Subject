@@ -1,0 +1,7 @@
+ASI;9027;8091244;Joao Pedro Goncalves;15
+POO;1005;8072847;Ana Maria Gomes;15
+PP;2076;8108242;Mario Barbosa de Almeida;12
+ASI;9027;8108242;Mario Barbosa de Almeida;8 
+POO;1005;8091244;Joao Pedro Goncalves;11 
+PP;2076;8091244;Joao Pedro Goncalves;13 
+ASI;9027;8103234;Maria Joana Sousa;6
